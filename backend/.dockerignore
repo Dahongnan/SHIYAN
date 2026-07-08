@@ -1,0 +1,14 @@
+__pycache__
+*.pyc
+*.pyo
+.venv
+venv
+.env
+*.db
+.git
+.gitignore
+vector_store/
+README.md
+**/.DS_Store
+# 旧 app/data 目录（providers.json 已迁移到项目根 data/）
+app/data/

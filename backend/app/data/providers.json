@@ -1,0 +1,13 @@
+{
+  "providers": [
+    {
+      "id": "17ab9c3a",
+      "name": "deepseek",
+      "api_key": "sk-19a8ff143e3648c9b7d99beadf9c3ec0",
+      "base_url": "https://api.deepseek.com/v1",
+      "model_name": "deepseek-v4-flash",
+      "is_active": true
+    }
+  ],
+  "active_id": "17ab9c3a"
+}

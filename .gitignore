@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+*.db
+
+# Node
+node_modules/
+dist/
+
+# Environment
+.env
+
+# Runtime data (contains API keys)
+backend/data/*
+!backend/data/.gitkeep
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Vector store data
+backend/knowledge_base/vector_store/*
+!backend/knowledge_base/vector_store/.gitkeep
+
+# Uploaded textbooks
+backend/knowledge_base/textbooks/*
+!backend/knowledge_base/textbooks/.gitkeep

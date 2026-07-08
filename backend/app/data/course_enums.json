@@ -1,0 +1,55 @@
+{
+  "semesters": [
+    {
+      "value": "2026春季",
+      "label": "2026 春季"
+    },
+    {
+      "value": "2025秋季",
+      "label": "2025 秋季"
+    },
+    {
+      "value": "2025春季",
+      "label": "2025 春季"
+    }
+  ],
+  "statuses": [
+    {
+      "value": "进行中",
+      "label": "进行中",
+      "color": "#1677ff",
+      "type": "processing"
+    },
+    {
+      "value": "已过半",
+      "label": "已过半",
+      "color": "#fa8c16",
+      "type": "warning"
+    },
+    {
+      "value": "已结课",
+      "label": "已结课",
+      "color": "#52c41a",
+      "type": "success"
+    }
+  ],
+  "course_categories": [
+    {
+      "value": "专业核心",
+      "label": "专业核心"
+    },
+    {
+      "value": "专业选修",
+      "label": "专业选修"
+    },
+    {
+      "value": "通识基础",
+      "label": "通识基础"
+    }
+  ],
+  "progress_thresholds": {
+    "half": 50,
+    "complete": 100,
+    "max_hours": 64
+  }
+}
